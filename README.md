@@ -14,6 +14,9 @@ Process
 
 -operating a fully assembled tag reader from boot:
 >cd 3ds_tracking
+
 >sudo python 3dinventory_script.py
+
 -follow the onscreen instructions
+
 -once completed mysql table 3ds_tracking will be updated in database 3dsystems
